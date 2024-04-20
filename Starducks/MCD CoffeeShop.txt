@@ -1,0 +1,29 @@
+TABLE:
+
+USERS
+	CLIENT
+	
+	Nom, Prenom
+
+
+
+	SERVEUR
+
+	Nom, Prenom
+
+	PATRON
+
+
+	Nom, Prenom
+
+BOISSONS
+
+	NOM :	Caffé latte, Cappuccino, Iced Mocha, Espresso Macchiato, Chocolat Viennois Signature Glacé, Frappuccino, Smoothie, Tea.
+	Prix :      4.99€       5.59€      3.79€            4.59€                     8.99€                    4.99€       5.59€  3.49€
+	Description :
+
+
+
+
+
+	
